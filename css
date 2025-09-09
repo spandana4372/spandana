@@ -1,0 +1,124 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.scrolltext
+{
+    font-family: 'lucida sans','lucida grande'
+    font-style:oblique;
+    fint-size: 25px;
+    width: 100%;
+    white-space: nowrap;
+    color: goldenrod;
+    overflow: hidden;
+    box-sizing: border-box;
+    border: 2px solid red;
+}
+@keyframes scrolltext {
+    from
+    []
+}
+{
+    display: inline-block;
+    padding-left: 100%;
+    animation: scrollleft 5s linear infinity;
+}
